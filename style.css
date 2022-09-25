@@ -1,0 +1,27 @@
+body{
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.back{
+    background-color:hsl(30, 38%, 92%) ;
+}
+
+.image {
+    background: url(/images/image-product-desktop.jpg);
+    background-size: 250px;
+    width: 50%;
+    height: 100vh;
+    background-position-x: 70%;
+    background-repeat: no-repeat;
+    padding-top:;   
+    justify-content: center;
+    
+}
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
